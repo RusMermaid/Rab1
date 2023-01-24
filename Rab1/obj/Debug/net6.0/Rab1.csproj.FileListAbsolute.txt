@@ -1,0 +1,17 @@
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/bin/Debug/net6.0/Rab1
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/bin/Debug/net6.0/Rab1.deps.json
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/bin/Debug/net6.0/Rab1.runtimeconfig.json
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/bin/Debug/net6.0/Rab1.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/bin/Debug/net6.0/Rab1.pdb
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/obj/Debug/net6.0/Rab1.csproj.AssemblyReference.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/obj/Debug/net6.0/Rab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/obj/Debug/net6.0/Rab1.AssemblyInfoInputs.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/obj/Debug/net6.0/Rab1.AssemblyInfo.cs
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/obj/Debug/net6.0/Rab1.csproj.CoreCompileInputs.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/obj/Debug/net6.0/Rab1.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/obj/Debug/net6.0/refint/Rab1.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/obj/Debug/net6.0/Rab1.pdb
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/obj/Debug/net6.0/Rab1.genruntimeconfig.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/obj/Debug/net6.0/ref/Rab1.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/bin/Debug/net6.0/nunit.framework.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/obj/Debug/net6.0/Rab1.csproj.CopyComplete

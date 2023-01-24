@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CENv5CpmzEIzx788WGs+SwBHZvZLYt590ZPAdxXPBCAZ4/0kiLlsQ23Qosg3+P6FS4iwG8gLoWKl6j8g0V+kWg==",
+  "success": true,
+  "projectFilePath": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Rab1/Rab1/Rab1.csproj",
+  "expectedPackageFiles": [
+    "/Users/rus_mermaid/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/rus_mermaid/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/rus_mermaid/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
